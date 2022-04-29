@@ -1,0 +1,8 @@
+The required modules for the implementation of the AI model are:
+
+1. Numpy
+2. Pandas
+3. Sklearn
+4. NLTK
+5. NLTK Stopwords('english')
+6. NLTK PorterStemmer
